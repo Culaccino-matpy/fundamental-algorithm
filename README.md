@@ -1,1 +1,1 @@
-# fundamental-algorithm
+# 本项目主要是对一些基础算法进行总结，方便大家学习，后续还会继续更新pat相关内容，欢迎关注和star
