@@ -8,7 +8,7 @@
 
 ## 目录
 
-Chap1基础算法：快排、归并示例、二分、前缀、差分、双指针算法、位运算、离散化以及区间合并问题
+[Chap1基础算法(进行中)](https://github.com/Culaccino-matpy/fundamental-algorithm/tree/main/chap1%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95)：快排、归并示例、二分、前缀、差分、双指针算法、位运算、离散化以及区间合并问题
 
 Chap2数据结构
 
